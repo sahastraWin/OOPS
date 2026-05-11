@@ -344,6 +344,4 @@ Free to use, study, modify, and share.
 
 <br/>
 
-`class README extends Markdown implements Exquisite { }`
-
 </div>
