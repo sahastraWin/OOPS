@@ -46,14 +46,14 @@ Built in **Eclipse IDE** targeting **Java SE 23**, this project follows standard
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   🔒 ENCAPSULATION      🧬 INHERITANCE                      │
+│   🔒 ENCAPSULATION      🧬 INHERITANCE                     │
 │   ─────────────────     ──────────────                      │
 │   Data hiding via       "Is-A" hierarchies via              │
 │   access modifiers,     extends keyword,                    │
 │   getters & setters,    method overriding,                  │
 │   tight class design.   super() chaining.                   │
 │                                                             │
-│   🎭 POLYMORPHISM       🪟 ABSTRACTION                      │
+│   🎭 POLYMORPHISM       🪟 ABSTRACTION                     │
 │   ────────────────      ─────────────                       │
 │   One interface,        Abstract classes,                   │
 │   many forms. Runtime   interfaces, hiding                  │
