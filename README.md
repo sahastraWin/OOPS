@@ -326,14 +326,6 @@ git push origin feature/your-concept
 
 [![GitHub](https://img.shields.io/badge/GitHub-sahastraWin-181717?style=flat-square&logo=github)](https://github.com/sahastraWin)
 
----
-
-## ◈ License
-
-This project is open-source under the [MIT License](LICENSE).
-Free to use, study, modify, and share.
-
----
 
 <div align="center">
 
